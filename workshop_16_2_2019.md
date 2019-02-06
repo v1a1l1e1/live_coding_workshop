@@ -37,7 +37,7 @@
 </section>
 
 
-[toplap logo]()
+<a href="http://toplap.org"><img src="images/toplap.svg"; style="width=50%;height=50%; margin-top=0px"></a>
 
 
 
