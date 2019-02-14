@@ -117,3 +117,48 @@ E' una libreria Python per il live coding. E' stata creata per semplificare l'ap
 
 
 ![foxdot](images/foxdot.png)
+
+
+
+
+# SynthDefs
+
+
+### Percussioni
+
+* kick
+* kick2
+* kick3
+* hh
+* bz
+* bd
+* rotC
+* glitchy2 
+
+
+### synth
+* ringM
+* pad
+* synth
+* bass
+* bass2
+* fm
+* base_fm
+* raw
+
+
+### drones
+* 82
+* mu
+
+
+### fx
+* fgh
+* bub
+* blip
+* medium
+* arp
+* player
+* dust
+* noiz
+* wo
